@@ -61,5 +61,5 @@ Here are the links that I have used to help me build better understanding about 
 # Future Work
 
 - The quality of the background audio is not playing as expected in good quality. I have to study more in the future on how to appropriately include the audio in a good sound quality.
-- I wanted to add a feature of play again to the end of the game so that the user dont have to close the program and rerun the game if they ever wanting to play again.
+- I wanted to add a feature of play again to the end of the game so that the user don't have to close the program and rerun the game if they ever wanting to play again.
 - Adding the scoring system and the audio respond when the snake is dead will be a great interation for the user.
